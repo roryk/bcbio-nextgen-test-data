@@ -1,0 +1,229 @@
+38 0
+ENSMUST00000082387
+ENSMUSG00000064336
+chrM
++ 68
+1 1 68
+gene_id "ENSMUSG00000064336"; transcript_id "ENSMUST00000082387"; exon_number "1"; gene_name "mt-Tf"; transcript_name "mt-Tf-201";
+ENSMUST00000082388
+ENSMUSG00000064337
+chrM
++ 955
+1 70 1024
+gene_id "ENSMUSG00000064337"; transcript_id "ENSMUST00000082388"; exon_number "1"; gene_name "mt-Rnr1"; transcript_name "mt-Rnr1-201";
+ENSMUST00000082389
+ENSMUSG00000064338
+chrM
++ 69
+1 1025 1093
+gene_id "ENSMUSG00000064338"; transcript_id "ENSMUST00000082389"; exon_number "1"; gene_name "mt-Tv"; transcript_name "mt-Tv-201";
+ENSMUST00000082390
+ENSMUSG00000064339
+chrM
++ 1582
+1 1094 2675
+gene_id "ENSMUSG00000064339"; transcript_id "ENSMUST00000082390"; exon_number "1"; gene_name "mt-Rnr2"; transcript_name "mt-Rnr2-201";
+ENSMUST00000082391
+ENSMUSG00000064340
+chrM
++ 75
+1 2676 2750
+gene_id "ENSMUSG00000064340"; transcript_id "ENSMUST00000082391"; exon_number "1"; gene_name "mt-Tl1"; transcript_name "mt-Tl1-201";
+ENSMUST00000082392
+ENSMUSG00000064341
+chrM
++ 957
+1 2751 3707
+gene_id "ENSMUSG00000064341"; transcript_id "ENSMUST00000082392"; exon_number "1"; gene_name "mt-Nd1"; transcript_name "mt-Nd1-201";
+ENSMUST00000082393
+ENSMUSG00000064342
+chrM
++ 69
+1 3706 3774
+gene_id "ENSMUSG00000064342"; transcript_id "ENSMUST00000082393"; exon_number "1"; gene_name "mt-Ti"; transcript_name "mt-Ti-201";
+ENSMUST00000082394
+ENSMUSG00000064343
+chrM
+- 71
+1 3772 3842
+gene_id "ENSMUSG00000064343"; transcript_id "ENSMUST00000082394"; exon_number "1"; gene_name "mt-Tq"; transcript_name "mt-Tq-201";
+ENSMUST00000082395
+ENSMUSG00000064344
+chrM
++ 69
+1 3845 3913
+gene_id "ENSMUSG00000064344"; transcript_id "ENSMUST00000082395"; exon_number "1"; gene_name "mt-Tm"; transcript_name "mt-Tm-201";
+ENSMUST00000082396
+ENSMUSG00000064345
+chrM
++ 1038
+1 3914 4951
+gene_id "ENSMUSG00000064345"; transcript_id "ENSMUST00000082396"; exon_number "1"; gene_name "mt-Nd2"; transcript_name "mt-Nd2-201";
+ENSMUST00000082397
+ENSMUSG00000064346
+chrM
++ 67
+1 4950 5016
+gene_id "ENSMUSG00000064346"; transcript_id "ENSMUST00000082397"; exon_number "1"; gene_name "mt-Tw"; transcript_name "mt-Tw-201";
+ENSMUST00000082398
+ENSMUSG00000064347
+chrM
+- 69
+1 5018 5086
+gene_id "ENSMUSG00000064347"; transcript_id "ENSMUST00000082398"; exon_number "1"; gene_name "mt-Ta"; transcript_name "mt-Ta-201";
+ENSMUST00000082399
+ENSMUSG00000064348
+chrM
+- 71
+1 5089 5159
+gene_id "ENSMUSG00000064348"; transcript_id "ENSMUST00000082399"; exon_number "1"; gene_name "mt-Tn"; transcript_name "mt-Tn-201";
+ENSMUST00000082400
+ENSMUSG00000064349
+chrM
+- 66
+1 5192 5257
+gene_id "ENSMUSG00000064349"; transcript_id "ENSMUST00000082400"; exon_number "1"; gene_name "mt-Tc"; transcript_name "mt-Tc-201";
+ENSMUST00000082401
+ENSMUSG00000064350
+chrM
+- 67
+1 5260 5326
+gene_id "ENSMUSG00000064350"; transcript_id "ENSMUST00000082401"; exon_number "1"; gene_name "mt-Ty"; transcript_name "mt-Ty-201";
+ENSMUST00000082402
+ENSMUSG00000064351
+chrM
++ 1545
+1 5328 6872
+gene_id "ENSMUSG00000064351"; transcript_id "ENSMUST00000082402"; exon_number "1"; gene_name "mt-Co1"; transcript_name "mt-Co1-201";
+ENSMUST00000082403
+ENSMUSG00000064352
+chrM
+- 69
+1 6870 6938
+gene_id "ENSMUSG00000064352"; transcript_id "ENSMUST00000082403"; exon_number "1"; gene_name "mt-Ts1"; transcript_name "mt-Ts1-201";
+ENSMUST00000082404
+ENSMUSG00000064353
+chrM
++ 70
+1 6942 7011
+gene_id "ENSMUSG00000064353"; transcript_id "ENSMUST00000082404"; exon_number "1"; gene_name "mt-Td"; transcript_name "mt-Td-201";
+ENSMUST00000082405
+ENSMUSG00000064354
+chrM
++ 684
+1 7013 7696
+gene_id "ENSMUSG00000064354"; transcript_id "ENSMUST00000082405"; exon_number "1"; gene_name "mt-Co2"; transcript_name "mt-Co2-201";
+ENSMUST00000082406
+ENSMUSG00000064355
+chrM
++ 65
+1 7700 7764
+gene_id "ENSMUSG00000064355"; transcript_id "ENSMUST00000082406"; exon_number "1"; gene_name "mt-Tk"; transcript_name "mt-Tk-201";
+ENSMUST00000082407
+ENSMUSG00000064356
+chrM
++ 204
+1 7766 7969
+gene_id "ENSMUSG00000064356"; transcript_id "ENSMUST00000082407"; exon_number "1"; gene_name "mt-Atp8"; transcript_name "mt-Atp8-201";
+ENSMUST00000082408
+ENSMUSG00000064357
+chrM
++ 681
+1 7927 8607
+gene_id "ENSMUSG00000064357"; transcript_id "ENSMUST00000082408"; exon_number "1"; gene_name "mt-Atp6"; transcript_name "mt-Atp6-201";
+ENSMUST00000082409
+ENSMUSG00000064358
+chrM
++ 784
+1 8607 9390
+gene_id "ENSMUSG00000064358"; transcript_id "ENSMUST00000082409"; exon_number "1"; gene_name "mt-Co3"; transcript_name "mt-Co3-201";
+ENSMUST00000082410
+ENSMUSG00000064359
+chrM
++ 68
+1 9391 9458
+gene_id "ENSMUSG00000064359"; transcript_id "ENSMUST00000082410"; exon_number "1"; gene_name "mt-Tg"; transcript_name "mt-Tg-201";
+ENSMUST00000082411
+ENSMUSG00000064360
+chrM
++ 348
+1 9459 9806
+gene_id "ENSMUSG00000064360"; transcript_id "ENSMUST00000082411"; exon_number "1"; gene_name "mt-Nd3"; transcript_name "mt-Nd3-201";
+ENSMUST00000082412
+ENSMUSG00000064361
+chrM
++ 68
+1 9808 9875
+gene_id "ENSMUSG00000064361"; transcript_id "ENSMUST00000082412"; exon_number "1"; gene_name "mt-Tr"; transcript_name "mt-Tr-201";
+ENSMUST00000082414
+ENSMUSG00000064363
+chrM
++ 1378
+1 10167 11544
+gene_id "ENSMUSG00000064363"; transcript_id "ENSMUST00000082414"; exon_number "1"; gene_name "mt-Nd4"; transcript_name "mt-Nd4-201";
+ENSMUST00000082415
+ENSMUSG00000064364
+chrM
++ 67
+1 11546 11612
+gene_id "ENSMUSG00000064364"; transcript_id "ENSMUST00000082415"; exon_number "1"; gene_name "mt-Th"; transcript_name "mt-Th-201";
+ENSMUST00000082416
+ENSMUSG00000064365
+chrM
++ 59
+1 11613 11671
+gene_id "ENSMUSG00000064365"; transcript_id "ENSMUST00000082416"; exon_number "1"; gene_name "mt-Ts2"; transcript_name "mt-Ts2-201";
+ENSMUST00000082417
+ENSMUSG00000064366
+chrM
++ 71
+1 11671 11741
+gene_id "ENSMUSG00000064366"; transcript_id "ENSMUST00000082417"; exon_number "1"; gene_name "mt-Tl2"; transcript_name "mt-Tl2-201";
+ENSMUST00000082418
+ENSMUSG00000064367
+chrM
++ 1824
+1 11742 13565
+gene_id "ENSMUSG00000064367"; transcript_id "ENSMUST00000082418"; exon_number "1"; gene_name "mt-Nd5"; transcript_name "mt-Nd5-201";
+ENSMUST00000082419
+ENSMUSG00000064368
+chrM
+- 519
+1 13552 14070
+gene_id "ENSMUSG00000064368"; transcript_id "ENSMUST00000082419"; exon_number "1"; gene_name "mt-Nd6"; transcript_name "mt-Nd6-201";
+ENSMUST00000082420
+ENSMUSG00000064369
+chrM
+- 69
+1 14071 14139
+gene_id "ENSMUSG00000064369"; transcript_id "ENSMUST00000082420"; exon_number "1"; gene_name "mt-Te"; transcript_name "mt-Te-201";
+ENSMUST00000082421
+ENSMUSG00000064370
+chrM
++ 1144
+1 14145 15288
+gene_id "ENSMUSG00000064370"; transcript_id "ENSMUST00000082421"; exon_number "1"; gene_name "mt-Cytb"; transcript_name "mt-Cytb-201";
+ENSMUST00000082422
+ENSMUSG00000064371
+chrM
++ 67
+1 15289 15355
+gene_id "ENSMUSG00000064371"; transcript_id "ENSMUST00000082422"; exon_number "1"; gene_name "mt-Tt"; transcript_name "mt-Tt-201";
+ENSMUST00000082423
+ENSMUSG00000064372
+chrM
+- 67
+1 15356 15422
+gene_id "ENSMUSG00000064372"; transcript_id "ENSMUST00000082423"; exon_number "1"; gene_name "mt-Tp"; transcript_name "mt-Tp-201";
+ENSMUST00000084013
+ENSMUSG00000065947
+chrM
++ 297
+1 9877 10173
+gene_id "ENSMUSG00000065947"; transcript_id "ENSMUST00000084013"; exon_number "1"; gene_name "mt-Nd4l"; transcript_name "mt-Nd4l-201";
+ENSMUST00000103243
+ENSMUSG00000076442
+chrM
+- 95
+1 16115 16209
+gene_id "ENSMUSG00000076442"; transcript_id "ENSMUST00000103243"; exon_number "1"; gene_name "mmu-mir-805"; transcript_name "mmu-mir-805.1-201";
